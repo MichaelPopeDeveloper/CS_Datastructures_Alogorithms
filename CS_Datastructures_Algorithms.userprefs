@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="cs_datastructures_algorithms\cs_datastructures_algorithms.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Desktop\Learning\cd_datastructures_algorithms\Node.cs">
+    <Files>
+      <File FileName="..\..\..\Desktop\Learning\cd_datastructures_algorithms\Node.cs" Line="1" Column="1" />
+      <File FileName="cs_datastructures_algorithms\LinkedListNode.cs" Line="7" Column="18" />
+      <File FileName="cs_datastructures_algorithms\Node.cs" Line="30" Column="1" />
+      <File FileName="cs_datastructures_algorithms\LinkedList.cs" Line="84" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
