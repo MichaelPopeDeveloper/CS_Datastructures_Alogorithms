@@ -2,3 +2,5 @@ C:\Users\Michael\Documents\Projects\cs_datastructures_algorithms\cs_datastructur
 C:\Users\Michael\Documents\Projects\cs_datastructures_algorithms\cs_datastructures_algorithms\bin\Debug\cs_datastructures_algorithms.pdb
 C:\Users\Michael\Documents\Projects\cs_datastructures_algorithms\cs_datastructures_algorithms\obj\x86\Debug\cs_datastructures_algorithms.exe
 C:\Users\Michael\Documents\Projects\cs_datastructures_algorithms\cs_datastructures_algorithms\obj\x86\Debug\cs_datastructures_algorithms.pdb
+C:\Users\Michael\Documents\Projects\CS_Datastructures_Algorithms\cs_datastructures_algorithms\obj\x86\Debug\cs_datastructures_algorithms.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Projects\CS_Datastructures_Algorithms\cs_datastructures_algorithms\obj\x86\Debug\cs_datastructures_algorithms.csproj.CoreCompileInputs.cache
